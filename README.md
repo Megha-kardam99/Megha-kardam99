@@ -1,64 +1,42 @@
-# Hi, I'm Megha Kardam 👋
+# Megha Kardam
 
-### CSE Student | Java Developer | Web Developer
+**B.Tech CSE | DCRUST Murthal | 2024–2028**
 
-📍 DCRUST, Murthal | Faridabad, Haryana  
+📍 Faridabad, Haryana  
 📧 meghakardam313@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/megha-kardam-6637b4374)
+🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
 
 ---
 
-## About Me
+## Skills
 
-I'm a 3rd year Computer Science Engineering student with a 
-strong interest in Java development and web technologies.
-I love building projects that solve real problems and 
-learning through hands-on coding.
-
----
-
-## Tech Stack
-
-**Languages**  
-Java &nbsp;|&nbsp; JavaScript &nbsp;|&nbsp; HTML &nbsp;|&nbsp; CSS
-
-**Backend & Database**  
-Node.js &nbsp;|&nbsp; MongoDB
-
-**Tools**  
-Git &nbsp;|&nbsp; GitHub &nbsp;|&nbsp; IntelliJ IDEA &nbsp;|&nbsp; VS Code
+**Languages:** Java · JavaScript · HTML · CSS  
+**Backend:** Node.js · Express.js  
+**Database:** MongoDB · Mongoose  
+**Auth & Security:** JWT · bcryptjs · Role-based Access Control  
+**Tools:** Git · GitHub · IntelliJ IDEA · VS Code · Postman
 
 ---
 
 ## Projects
 
-| Project | Description | Tech |
+| Project | Tech | Highlights |
 |---|---|---|
-| [ATM Interface](https://github.com/Megha-kardam99/ATM-Interface-Java) | Console-based ATM with login, transactions, transfer | Java, OOP |
-| [Online Reservation System](https://github.com/Megha-kardam99/Online-Reservation-System-Java) | Train booking system with PNR, cancellation, admin panel | Java, OOP |
+| [HireHub — Recruitment System](https://github.com/Megha-kardam99/recruitment-system) | Node.js, Express, MongoDB, JWT, HTML/CSS/JS | Full-stack · REST API · AI skill matching · Dual dashboards |
+| [ATM Interface](https://github.com/Megha-kardam99/ATM-Interface-Java) | Java | OOP · Collections · Console banking simulation |
+| [Online Reservation System](https://github.com/Megha-kardam99/Online-Reservation-System-Java) | Java | PNR generation · Fare calculation · Admin panel |
 
 ---
 
 ## Currently
 
-- 🌱 Learning — Advanced Java, Spring Boot basics
-- 🎯 Goal — Become a software developer
+- 📖 Data Structures & Algorithms
+- ☕ Advanced Java — heading toward Spring Boot
+- 🔨 Improving and expanding existing projects
 
 ---
 
-*"Code is not just syntax — it's how I think."*
+## GitHub Stats
 
-<!--
-**Megha-kardam99/Megha-kardam99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Stats](https://github-readme-stats.vercel.app/api?username=Megha-kardam99&show_icons=true&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Megha-kardam99&layout=compact&theme=tokyonight&hide_border=true)
