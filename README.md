@@ -42,8 +42,7 @@ Git &nbsp;|&nbsp; GitHub &nbsp;|&nbsp; IntelliJ IDEA &nbsp;|&nbsp; VS Code
 ## Currently
 
 - 🌱 Learning — Advanced Java, Spring Boot basics
-- 💼 Interning — IBM SkillsBuild (AI & Cloud) via Edunet Foundation
-- 🎯 Goal — Land a strong software development internship by final year
+- 🎯 Goal — Become a software developer
 
 ---
 
